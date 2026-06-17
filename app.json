@@ -1,25 +1,44 @@
 {
   "expo": {
     "name": "TerraAI",
-    "slug": "TerraAI",
+    "slug": "terraai",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2E5C31"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": false,
+      "bundleIdentifier": "com.terraai.app"
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
-        "monochromeImage": "./assets/android-icon-monochrome.png"
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2E5C31"
       },
-      "predictiveBackGestureEnabled": false
+      "package": "com.terraai.app",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION"
+      ]
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "bundler": "metro"
+    },
+    "scheme": "terraai",
+    "plugins": [
+      "expo-router",
+      "expo-image"
+    ],
+    "experiments": {
+      "typedRoutes": true
     }
   }
 }
