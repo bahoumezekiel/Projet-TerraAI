@@ -1,0 +1,270 @@
+{
+  "_commentaire": "Fiches VÉRIFIÉES, prioritaires sur la génération automatique. Clé = nom de classe du modèle en minuscules, séparateurs remplacés par _ (voir fiches.cle). Ajoutez ici toute fiche que vous voulez maîtriser mot pour mot.",
+
+  "corn_maize_common_rust": {
+    "nom": "Rouille commune du maïs",
+    "nom_scientifique": "Puccinia sorghi",
+    "cultures": ["Maïs"],
+    "description": "De petites pustules brun-rouille apparaissent sur les deux faces des feuilles. Elles se multiplient par temps humide et affaiblissent la plante, qui remplit mal ses épis.",
+    "severite": "modéré",
+    "traitements": [
+      "Retirez et brûlez les feuilles les plus atteintes.",
+      "Traitez au fongicide à base de mancozèbe dès l'apparition des pustules.",
+      "Renouvelez le traitement après 10 à 14 jours si les pustules reviennent.",
+      "Évitez d'arroser le feuillage : arrosez au pied, le matin."
+    ],
+    "prevention": [
+      "Choisissez des variétés de maïs tolérantes à la rouille.",
+      "Espacez suffisamment les plants pour que l'air circule.",
+      "Pratiquez la rotation : ne remettez pas du maïs deux saisons de suite au même endroit.",
+      "Enfouissez les résidus de récolte après la saison."
+    ]
+  },
+
+  "corn_maize_northern_leaf_blight": {
+    "nom": "Helminthosporiose du maïs",
+    "nom_scientifique": "Exserohilum turcicum",
+    "cultures": ["Maïs"],
+    "description": "De longues taches allongées gris-vert, en forme de cigare, s'étendent sur les feuilles. Les feuilles sèchent du bas vers le haut et le rendement chute fortement.",
+    "severite": "élevé",
+    "traitements": [
+      "Coupez et brûlez les feuilles portant les grandes taches.",
+      "Appliquez un fongicide à base de mancozèbe ou de propiconazole.",
+      "Répétez après 12 jours si de nouvelles taches apparaissent.",
+      "Ne travaillez pas dans la parcelle quand le feuillage est mouillé : cela propage la maladie."
+    ],
+    "prevention": [
+      "Semez des variétés résistantes.",
+      "Alternez maïs et légumineuses (niébé, arachide) d'une saison à l'autre.",
+      "Éliminez les résidus de maïs après la récolte.",
+      "Évitez les semis trop denses."
+    ]
+  },
+
+  "corn_maize_cercospora_leaf_spot_gray_leaf_spot": {
+    "nom": "Cercosporiose du maïs",
+    "nom_scientifique": "Cercospora zeae-maydis",
+    "cultures": ["Maïs"],
+    "description": "Des taches rectangulaires gris clair, aux bords nets, suivent les nervures des feuilles. Elles se rejoignent et dessèchent la feuille entière.",
+    "severite": "modéré",
+    "traitements": [
+      "Retirez les feuilles basses les plus touchées.",
+      "Traitez au fongicide (mancozèbe) dès les premières taches.",
+      "Renouvelez après deux semaines en cas de forte humidité.",
+      "Aérez la parcelle en éliminant les mauvaises herbes."
+    ],
+    "prevention": [
+      "Rotation des cultures sur au moins deux saisons.",
+      "Enfouissez profondément les résidus de récolte.",
+      "Semez à densité normale pour laisser passer l'air."
+    ]
+  },
+
+  "corn_maize_healthy": {
+    "nom": "Maïs en bonne santé",
+    "nom_scientifique": "",
+    "cultures": ["Maïs"],
+    "description": "Aucune maladie détectée sur cette feuille. Le feuillage est sain et de couleur normale.",
+    "severite": "faible",
+    "traitements": [
+      "Continuez la surveillance hebdomadaire de votre parcelle.",
+      "Maintenez un désherbage régulier autour des pieds.",
+      "Apportez l'engrais aux périodes prévues de votre calendrier."
+    ],
+    "prevention": [
+      "Inspectez le dessous des feuilles une fois par semaine.",
+      "Arrosez au pied plutôt que sur le feuillage."
+    ]
+  },
+
+  "tomato_late_blight": {
+    "nom": "Mildiou de la tomate",
+    "nom_scientifique": "Phytophthora infestans",
+    "cultures": ["Tomate", "Pomme de terre"],
+    "description": "Des taches sombres et huileuses envahissent feuilles et tiges, avec parfois un duvet blanc au revers. Par temps humide, la plante peut mourir en quelques jours.",
+    "severite": "élevé",
+    "traitements": [
+      "Arrachez immédiatement les plants les plus atteints et brûlez-les loin du champ.",
+      "Traitez les plants restants au fongicide cuivrique (bouillie bordelaise).",
+      "Renouvelez tous les 7 jours tant que le temps reste humide.",
+      "Arrosez uniquement au pied, jamais sur les feuilles."
+    ],
+    "prevention": [
+      "Espacez les plants de 50 cm au minimum pour aérer.",
+      "Tuteurez pour éloigner le feuillage du sol.",
+      "Paillez le sol afin d'éviter les éclaboussures de terre.",
+      "Ne replantez pas de tomate au même endroit avant deux saisons."
+    ]
+  },
+
+  "tomato_early_blight": {
+    "nom": "Alternariose de la tomate",
+    "nom_scientifique": "Alternaria solani",
+    "cultures": ["Tomate", "Pomme de terre"],
+    "description": "Des taches brunes en cercles concentriques, comme une cible, apparaissent d'abord sur les feuilles du bas. Elles remontent progressivement et les feuilles tombent.",
+    "severite": "modéré",
+    "traitements": [
+      "Retirez les feuilles basses tachées et brûlez-les.",
+      "Traitez au fongicide à base de mancozèbe ou de cuivre.",
+      "Répétez tous les 10 jours pendant la période humide.",
+      "Apportez un engrais équilibré : une plante affaiblie est plus sensible."
+    ],
+    "prevention": [
+      "Paillez le sol au pied des plants.",
+      "Arrosez le matin, au pied uniquement.",
+      "Pratiquez la rotation avec des céréales.",
+      "Éliminez les résidus de tomate en fin de saison."
+    ]
+  },
+
+  "tomato_leaf_mold": {
+    "nom": "Cladosporiose de la tomate",
+    "nom_scientifique": "Passalora fulva",
+    "cultures": ["Tomate"],
+    "description": "Des taches jaunes sur le dessus des feuilles, avec un feutrage brun-olive au revers. Les feuilles se recroquevillent puis sèchent.",
+    "severite": "modéré",
+    "traitements": [
+      "Coupez les feuilles atteintes et sortez-les du champ.",
+      "Traitez au fongicide cuivrique.",
+      "Aérez fortement la culture en éclaircissant le feuillage.",
+      "Réduisez l'humidité : arrosez moins souvent mais plus abondamment."
+    ],
+    "prevention": [
+      "Évitez les plantations trop serrées.",
+      "Ne mouillez jamais le feuillage.",
+      "Effeuillez le bas des plants au fur et à mesure."
+    ]
+  },
+
+  "tomato_bacterial_spot": {
+    "nom": "Tache bactérienne de la tomate",
+    "nom_scientifique": "Xanthomonas campestris",
+    "cultures": ["Tomate", "Piment"],
+    "description": "De petites taches brun foncé, parfois entourées d'un halo jaune, criblent feuilles et fruits. Les fruits atteints deviennent invendables.",
+    "severite": "élevé",
+    "traitements": [
+      "Arrachez et brûlez les plants les plus touchés.",
+      "Traitez au cuivre les plants voisins encore sains.",
+      "Désinfectez vos outils entre chaque rang.",
+      "Ne récoltez pas quand les plants sont mouillés."
+    ],
+    "prevention": [
+      "Utilisez des semences saines, certifiées.",
+      "Rotation d'au moins deux saisons sans tomate ni piment.",
+      "Arrosez au pied, jamais par aspersion.",
+      "Éliminez les repousses spontanées et les adventices."
+    ]
+  },
+
+  "tomato_healthy": {
+    "nom": "Tomate en bonne santé",
+    "nom_scientifique": "",
+    "cultures": ["Tomate"],
+    "description": "Aucune maladie détectée sur cette feuille. Le plant présente un feuillage sain.",
+    "severite": "faible",
+    "traitements": [
+      "Poursuivez la surveillance hebdomadaire.",
+      "Maintenez le paillage et l'arrosage au pied.",
+      "Tuteurez les plants qui s'allongent."
+    ],
+    "prevention": [
+      "Inspectez le revers des feuilles chaque semaine.",
+      "Retirez les feuilles basses en contact avec le sol."
+    ]
+  },
+
+  "pepper_bell_bacterial_spot": {
+    "nom": "Tache bactérienne du piment",
+    "nom_scientifique": "Xanthomonas campestris",
+    "cultures": ["Piment", "Poivron"],
+    "description": "Petites taches brunes en relief sur les feuilles et les fruits, souvent cerclées de jaune. Les feuilles atteintes finissent par tomber.",
+    "severite": "élevé",
+    "traitements": [
+      "Retirez et brûlez les plants les plus atteints.",
+      "Traitez au cuivre les plants encore sains.",
+      "Désinfectez les outils de taille après chaque plant.",
+      "Ne travaillez pas dans la parcelle par temps humide."
+    ],
+    "prevention": [
+      "Semences saines uniquement.",
+      "Rotation avec céréales pendant deux saisons.",
+      "Arrosage au pied exclusivement."
+    ]
+  },
+
+  "pepper_bell_healthy": {
+    "nom": "Piment en bonne santé",
+    "nom_scientifique": "",
+    "cultures": ["Piment", "Poivron"],
+    "description": "Aucune maladie détectée. Le feuillage est sain.",
+    "severite": "faible",
+    "traitements": [
+      "Continuez la surveillance régulière.",
+      "Désherbez autour des pieds.",
+      "Apportez l'engrais selon votre calendrier."
+    ],
+    "prevention": [
+      "Contrôlez le revers des feuilles chaque semaine.",
+      "Évitez d'arroser le feuillage."
+    ]
+  },
+
+  "potato_late_blight": {
+    "nom": "Mildiou de la pomme de terre",
+    "nom_scientifique": "Phytophthora infestans",
+    "cultures": ["Pomme de terre", "Tomate"],
+    "description": "Grandes taches brun-noir sur les feuilles, s'étendant très vite par temps humide. Les tubercules pourrissent en terre ou après récolte.",
+    "severite": "élevé",
+    "traitements": [
+      "Coupez et brûlez tout le feuillage atteint sans attendre.",
+      "Traitez au fongicide cuivrique les plants voisins.",
+      "Renouvelez tous les 7 jours pendant les pluies.",
+      "Récoltez par temps sec et laissez sécher les tubercules avant stockage."
+    ],
+    "prevention": [
+      "Plantez des semences certifiées saines.",
+      "Buttez bien les plants pour protéger les tubercules.",
+      "Rotation d'au moins trois saisons.",
+      "Éliminez les tubercules oubliés en terre."
+    ]
+  },
+
+  "spodoptera_frugiperda": {
+    "nom": "Chenille légionnaire d'automne",
+    "nom_scientifique": "Spodoptera frugiperda",
+    "cultures": ["Maïs", "Sorgho", "Mil", "Riz"],
+    "description": "Chenille qui se loge dans le cornet du maïs et dévore les jeunes feuilles, laissant des trous alignés et des déjections ressemblant à de la sciure. Une attaque forte peut détruire une parcelle entière.",
+    "severite": "élevé",
+    "traitements": [
+      "Inspectez les cornets et écrasez les chenilles à la main tôt le matin.",
+      "Appliquez une pincée de sable mélangé à de la cendre directement dans le cornet.",
+      "En cas de forte attaque, traitez avec un biopesticide à base de Bacillus thuringiensis.",
+      "Traitez en fin de journée : les chenilles sortent la nuit."
+    ],
+    "prevention": [
+      "Semez tôt et en même temps que vos voisins pour limiter les vagues d'attaque.",
+      "Associez le maïs au niébé pour attirer les insectes utiles.",
+      "Surveillez les cornets deux fois par semaine dès la levée.",
+      "Détruisez les résidus de récolte où les chrysalides passent la saison sèche."
+    ]
+  },
+
+  "schistocerca_gregaria": {
+    "nom": "Criquet pèlerin",
+    "nom_scientifique": "Schistocerca gregaria",
+    "cultures": ["Mil", "Sorgho", "Maïs", "Niébé"],
+    "description": "Criquet qui se déplace en essaims et dévore tout le feuillage sur son passage. Les dégâts sont très rapides et souvent totaux sur les parcelles touchées.",
+    "severite": "élevé",
+    "traitements": [
+      "Alertez immédiatement le service de protection des végétaux de votre zone : la lutte doit être collective.",
+      "Faites du bruit et de la fumée pour détourner les essaims des parcelles.",
+      "Traitez les bandes larvaires au sol avant qu'elles ne prennent leur envol.",
+      "Récoltez en urgence ce qui peut l'être si l'essaim approche."
+    ],
+    "prevention": [
+      "Participez aux réseaux d'alerte locaux sur les essaims.",
+      "Signalez toute concentration de jeunes criquets aux autorités agricoles.",
+      "Surveillez les zones sableuses de ponte après les pluies."
+    ]
+  }
+}

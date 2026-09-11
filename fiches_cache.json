@@ -1,0 +1,28 @@
+{
+  "class_26": {
+    "nom": "Rouille foliaire (tache orangée des feuilles)",
+    "nom_scientifique": "Puccinia spp.",
+    "cultures": [
+      "maïs",
+      "sorgho",
+      "mil",
+      "blé",
+      "haricot"
+    ],
+    "description": "La rouille est une maladie provoquée par un champignon. On voit apparaître de petites pustules (boursouflures) de couleur orange, rouille ou brune sur les feuilles, surtout sur la face inférieure. Ces taches s'étendent rapidement et les feuilles finissent par jaunir, sécher et tomber, ce qui réduit beaucoup la récolte.",
+    "severite": "modéré",
+    "traitements": [
+      "Arracher et brûler immédiatement toutes les feuilles très atteintes, sans les laisser sur le sol ni les mettre au compost.",
+      "Pulvériser un fongicide à base de mancozèbe (ex. Dithane M-45) : diluer 25 g dans 10 litres d'eau et traiter toute la plante, en insistant sous les feuilles. Renouveler tous les 10 à 14 jours.",
+      "Si la maladie est déjà bien installée, utiliser un fongicide systémique comme le propiconazole (ex. Tilt 250 EC) : 10 ml dans 10 litres d'eau, en traitement tous les 14 jours (2 à 3 fois maximum).",
+      "Traiter de préférence le matin tôt ou en fin de journée, jamais sous la forte chaleur, pour que le produit reste sur les feuilles et ne brûle pas les plantes."
+    ],
+    "prevention": [
+      "Choisir des variétés résistantes à la rouille recommandées dans votre zone par l'INERA ou les techniciens agricoles locaux.",
+      "Éviter de planter trop serré : laisser suffisamment d'espace entre les plants pour que l'air circule bien et que les feuilles sèchent plus vite après la pluie.",
+      "Pratiquer la rotation des cultures : ne pas semer la même céréale ou légumineuse deux saisons de suite sur la même parcelle.",
+      "Éliminer et brûler les restes de récolte (tiges, feuilles sèches) après la saison, car le champignon peut y survivre et contaminer la culture suivante."
+    ],
+    "source": "assistant"
+  }
+}

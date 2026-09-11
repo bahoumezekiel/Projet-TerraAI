@@ -1,0 +1,133 @@
+{
+  "lastUpdated": "2026-07-15",
+  "prices": [
+    {
+      "id": "1",
+      "product": "Mil",
+      "category": "céréale",
+      "unit": "kg",
+      "lastUpdated": "15/07/2026",
+      "prices": [
+        { "market": "Ouagadougou", "price": 250, "variation": 4 },
+        { "market": "Bobo-Dioulasso", "price": 240, "variation": 2 },
+        { "market": "Koudougou", "price": 235, "variation": -1 },
+        { "market": "Kaya", "price": 255, "variation": 6 }
+      ]
+    },
+    {
+      "id": "2",
+      "product": "Sorgho",
+      "category": "céréale",
+      "unit": "kg",
+      "lastUpdated": "15/07/2026",
+      "prices": [
+        { "market": "Ouagadougou", "price": 230, "variation": 2 },
+        { "market": "Bobo-Dioulasso", "price": 220, "variation": -2 },
+        { "market": "Koudougou", "price": 225, "variation": 1 },
+        { "market": "Kaya", "price": 235, "variation": 3 }
+      ]
+    },
+    {
+      "id": "3",
+      "product": "Maïs",
+      "category": "céréale",
+      "unit": "kg",
+      "lastUpdated": "15/07/2026",
+      "prices": [
+        { "market": "Ouagadougou", "price": 215, "variation": -3 },
+        { "market": "Bobo-Dioulasso", "price": 200, "variation": -5 },
+        { "market": "Koudougou", "price": 210, "variation": -2 },
+        { "market": "Kaya", "price": 220, "variation": 0 }
+      ]
+    },
+    {
+      "id": "4",
+      "product": "Riz local",
+      "category": "céréale",
+      "unit": "kg",
+      "lastUpdated": "15/07/2026",
+      "prices": [
+        { "market": "Ouagadougou", "price": 450, "variation": 1 },
+        { "market": "Bobo-Dioulasso", "price": 430, "variation": 0 },
+        { "market": "Koudougou", "price": 440, "variation": 2 },
+        { "market": "Kaya", "price": 460, "variation": 3 }
+      ]
+    },
+    {
+      "id": "5",
+      "product": "Niébé",
+      "category": "légumineuse",
+      "unit": "kg",
+      "lastUpdated": "15/07/2026",
+      "prices": [
+        { "market": "Ouagadougou", "price": 500, "variation": 7 },
+        { "market": "Bobo-Dioulasso", "price": 480, "variation": 5 },
+        { "market": "Koudougou", "price": 490, "variation": 6 },
+        { "market": "Kaya", "price": 515, "variation": 9 }
+      ]
+    },
+    {
+      "id": "6",
+      "product": "Arachide",
+      "category": "légumineuse",
+      "unit": "kg",
+      "lastUpdated": "15/07/2026",
+      "prices": [
+        { "market": "Ouagadougou", "price": 600, "variation": 3 },
+        { "market": "Bobo-Dioulasso", "price": 580, "variation": 2 },
+        { "market": "Koudougou", "price": 590, "variation": 4 },
+        { "market": "Kaya", "price": 610, "variation": 5 }
+      ]
+    },
+    {
+      "id": "7",
+      "product": "Sésame",
+      "category": "oléagineux",
+      "unit": "kg",
+      "lastUpdated": "15/07/2026",
+      "prices": [
+        { "market": "Ouagadougou", "price": 850, "variation": 12 },
+        { "market": "Bobo-Dioulasso", "price": 820, "variation": 10 },
+        { "market": "Koudougou", "price": 830, "variation": 11 },
+        { "market": "Kaya", "price": 860, "variation": 14 }
+      ]
+    },
+    {
+      "id": "8",
+      "product": "Tomate",
+      "category": "maraîcher",
+      "unit": "kg",
+      "lastUpdated": "15/07/2026",
+      "prices": [
+        { "market": "Ouagadougou", "price": 400, "variation": -8 },
+        { "market": "Bobo-Dioulasso", "price": 380, "variation": -10 },
+        { "market": "Koudougou", "price": 390, "variation": -6 },
+        { "market": "Kaya", "price": 420, "variation": -4 }
+      ]
+    },
+    {
+      "id": "9",
+      "product": "Oignon",
+      "category": "maraîcher",
+      "unit": "kg",
+      "lastUpdated": "15/07/2026",
+      "prices": [
+        { "market": "Ouagadougou", "price": 350, "variation": 5 },
+        { "market": "Bobo-Dioulasso", "price": 340, "variation": 3 },
+        { "market": "Koudougou", "price": 345, "variation": 4 },
+        { "market": "Kaya", "price": 360, "variation": 6 }
+      ]
+    }
+  ],
+  "history": {
+    "Mil": [232, 234, 233, 235, 236, 238, 237, 239, 240, 241, 240, 242, 243, 244, 243, 245, 246, 245, 247, 248, 247, 246, 248, 249, 248, 247, 249, 250, 249, 250],
+    "Sorgho": [222, 221, 223, 224, 223, 225, 226, 225, 224, 226, 227, 226, 228, 227, 229, 228, 227, 229, 230, 229, 228, 230, 231, 230, 229, 228, 230, 231, 230, 230],
+    "Maïs": [228, 227, 226, 225, 226, 224, 223, 224, 222, 221, 222, 220, 219, 220, 218, 219, 217, 218, 216, 217, 215, 216, 214, 215, 216, 214, 215, 216, 215, 215],
+    "Riz local": [445, 446, 444, 447, 446, 448, 447, 449, 448, 447, 449, 450, 448, 449, 451, 450, 449, 448, 450, 451, 450, 449, 451, 452, 450, 449, 448, 450, 451, 450],
+    "Niébé": [462, 465, 464, 468, 470, 469, 472, 474, 473, 476, 478, 477, 480, 482, 481, 484, 486, 485, 488, 490, 489, 492, 494, 493, 495, 496, 497, 498, 499, 500],
+    "Arachide": [582, 584, 583, 586, 585, 588, 587, 589, 590, 589, 591, 592, 591, 593, 594, 593, 595, 596, 595, 597, 598, 597, 596, 598, 599, 598, 597, 599, 600, 600],
+    "Sésame": [760, 765, 770, 768, 775, 780, 778, 785, 790, 788, 795, 800, 798, 805, 810, 808, 812, 815, 818, 820, 822, 825, 828, 830, 832, 835, 840, 845, 848, 850],
+    "Tomate": [450, 448, 445, 440, 442, 438, 435, 436, 432, 430, 428, 425, 426, 422, 420, 418, 415, 416, 412, 410, 408, 410, 406, 405, 404, 402, 400, 402, 401, 400],
+    "Oignon": [332, 334, 333, 336, 335, 338, 337, 339, 340, 339, 341, 342, 341, 343, 344, 343, 345, 344, 346, 347, 346, 348, 347, 349, 348, 347, 349, 350, 349, 350]
+  }
+}
